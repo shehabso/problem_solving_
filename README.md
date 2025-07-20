@@ -7,13 +7,12 @@ https://github.com/cs-MohamedAyman/Problem-Solving-Training
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## important repo 
+* [Machine_Learning_PS](https://www.deep-ml.com/)
 
-```bash
-     https://www.deep-ml.com/
-     https://github.com/hxu296/leetcode-company-wise-problems-2022
-     https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file
-     https://github.com/xizhang20181005/Leetcode_company_frequency
-```
+* [Company-repo](https://github.com/hxu296/leetcode-company-wise-problems-2022)
+
+* [Fast-preparation](https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file)
+* [Most-Frequency-question](https://github.com/xizhang20181005/Leetcode_company_frequency)
 ## Hash Table
 |  |
 | ------- |
